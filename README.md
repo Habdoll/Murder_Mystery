@@ -1,7 +1,8 @@
 # Murder_Mystery Project
 ---
 
-![174092-clue-illustration](https://github.com/Habdoll/Murder_Mystery/assets/145981715/a764c28b-4c83-42b0-a7f0-31b9a24472e0)
+![174092-clue-illustration](https://github.com/Habdoll/Murder_Mystery/assets/145981715/9ccb8387-39e1-4a41-a3b6-d8ab16e6b697)
+
 
 
 ## Project Overview
